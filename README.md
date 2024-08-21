@@ -28,19 +28,19 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 
 
 **Wood Working** 
-<img align="left" alt="Wood Working" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Qco-t/Qco-t/main/Hammer%2Bnail.svg" /> 
+<img align="left" alt="Wood Working" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Ingenieria-Olvera/Ingenieria-olvera/main/Hammer%2Bnail.svg" /> 
 <br/><br/>
 
 **Soldering** 
-<img align="left" alt="Soldering" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Qco-t/Qco-t/main/soldering_iron.svg" />
+<img align="left" alt="Soldering" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Ingenieria-Olvera/Ingenieria-olvera/main/soldering_iron.svg" />
 <br/><br/>
 
 **3d Printing** 
-<img align="left" alt="3d Printing" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Qco-t/Qco-t/main/3d_printer.svg" />
+<img align="left" alt="3d Printing" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Ingenieria-Olvera/Ingenieria-olvera/main/3d_printer.svg" />
 <br/><br/>
 
 **Laser Cutting** 
-<img align="left" alt="Laser Cutter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Qco-t/Qco-t/main/lasar_cutter.svg" />
+<img align="left" alt="Laser Cutter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Ingenieria-Olvera/Ingenieria-olvera/main/lasar_cutter.svg" />
 <br/><br/>
 
 <br/>
