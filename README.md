@@ -52,6 +52,7 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Robotic Tentacle](https://github.com/Qco-t/Tentacle-project) - Based off of Doctor Octavius' mind controlled tentacles, I set out to make a joystick controlled tentacle with a gripper.
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking) - Inspired by Iron Man and Rick from Rick and Morty, who can deconstruct random technologies and rebuild them into something incredible. I'm on a journy to learn hardware hacking. Follow my journey here.
 - [Spider Man Mask](https://github.com/Qco-t/Spider-Tingle) - Based off of the [Hacksmith Industries](https://www.youtube.com/watch?v=YQgWBzY1hR0) project, I want to create my own spider tingle mask.
+- [Ionic Wind Project](link here) - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I plan to make a working ionic wind generater that I can hopefully use to figure out how I can apply it to aircrats like drones.
 
 #
 
