@@ -48,17 +48,19 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 #
 
 ### 📂 Current/Recent Projects
-- [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant uses voice commands to control Spotify, display the weather, turn on LED lights, and shows jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, along with displaying images on a LCD screen. This project taught me the challenges of debugging, along with the rewarding experince of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
-- [Robotic Tentacle](https://github.com/Qco-t/Tentacle-project) - Based off of Doctor Octavius' mind controlled tentacles, I set out to make a joystick controlled tentacle with a gripper.
+- [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant uses voice commands to control Spotify, display the weather, turn on LED lights, and shows jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
+- [Gauss Rifle](Link here) based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making something too.
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking) - Inspired by Iron Man and Rick from Rick and Morty, who can deconstruct random technologies and rebuild them into something incredible. I'm on a journy to learn hardware hacking. Follow my journey here.
-- [Spider Man Mask](https://github.com/Qco-t/Spider-Tingle) - Based off of the [Hacksmith Industries](https://www.youtube.com/watch?v=YQgWBzY1hR0) project, I want to create my own spider tingle mask.
+- [Password Generator](Link here) In both c# and python for your coding language troubles.
+- [Hit and Run](Link here) From my love of video games that involve movement, I couldn't find any that truly fit what I wanted. So I set out to make the game I always wanted to play.
 - [Ionic Wind Project](link here) - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I plan to make a working ionic wind generater that I can hopefully use to figure out how I can apply it to aircrats like drones.
 
 #
 
 ### 🏆 Awards/Certifications
-**Fabrication Laboratory Award** Earned from my progress in creating a personal assistant through the school year, awarding my innovatoin, desgin, and programming prowess.
+- **Fabrication Laboratory Award** Earned from my progress in creating a personal assistant through the school year, awarding my innovatoin, desgin, and programming prowess.
 **Give a little more detail on the signifiance of this reward and what you have learned from it.**
+- **MITx 6.002.1x** I am currently taking on EdX MITx 6.002.1x, Circuits and Electronics 1: Basic Circuit Analysis, and I am getting my certificate here. This has truly challanged me in the relm of electronics, I started with no real knowldge on the topic and left with a good grasph on Electronics. **I can 100% go more in depth here about how It made me feel and just what I have learend similarly to the fablab award.**
 
 #
 
