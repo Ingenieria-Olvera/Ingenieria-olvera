@@ -49,11 +49,11 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 
 ### 📂 Current/Recent Projects
 - [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant uses voice commands to control Spotify, display the weather, turn on LED lights, and shows jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
-- [Gauss Rifle](Link here) based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making something too.
+- [Gauss Rifle](https://github.com/Ingenieria-Olvera/Gauss_Riffle) based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making something too.
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking) - Inspired by Iron Man and Rick from Rick and Morty, who can deconstruct random technologies and rebuild them into something incredible. I'm on a journy to learn hardware hacking. Follow my journey here.
-- [Password Generator](Link here) In both c# and python for your coding language troubles.
-- [Hit and Run](Link here) From my love of video games that involve movement, I couldn't find any that truly fit what I wanted. So I set out to make the game I always wanted to play.
-- [Ionic Wind Project](link here) - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I plan to make a working ionic wind generater that I can hopefully use to figure out how I can apply it to aircrats like drones.
+- [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens) In both c# and python for your coding language troubles.
+- [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run) From my love of video games that involve movement, I couldn't find any that truly fit what I wanted. So I set out to make the game I always wanted to play.
+- [Ionic Wind Project](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen) - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I plan to make a working ionic wind generater that I can hopefully use to figure out how I can apply it to aircrats like drones.
 
 #
 
