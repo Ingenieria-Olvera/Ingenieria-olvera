@@ -74,6 +74,6 @@ And if all goes wrong, I'll start a youtube channel or something. **Go more inde
 
 ### 🗣️ Talk With Me
 If you need anything or are curious about my work, reach out to me via [email](mailto:jonnyolv102306@gmail.com).
-**Maybe add another thing, linked in maybe, I dont really use it so just a thought.**
+If you are interested in seeing me while I work, please check out my [YouTube channel](https://www.youtube.com/@ingeneriaolvera552) where I will either cover projects I have done or videos on projects I am working on.
           
 
