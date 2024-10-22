@@ -54,6 +54,7 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens) In both c# and python for your coding language troubles.
 - [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run) From my love of video games that involve movement, I couldn't find any that truly fit what I wanted. So I set out to make the game I always wanted to play.
 - [Ionic Wind Project](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen) - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I plan to make a working ionic wind generater that I can hopefully use to figure out how I can apply it to aircrats like drones.
+- [Personalized AI](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant) - I was inspired by Iron Man and his personalized assistant Jarvis/Friday who helps Tony Stark in any challenges he faces, I aim to do something similar. I use Googles Generative AI and text-to-speech libarries to make my own Friday. That has helped me in the creation of the Ionic Wind Generator and Gauss Rifle.
 
 #
 
