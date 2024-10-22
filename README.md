@@ -48,7 +48,7 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 #
 
 ### 📂 Current/Recent Projects
-- [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant uses voice commands to control Spotify, display the weather, turn on LED lights, and shows jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
+- [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and it displays jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
 - [Gauss Rifle](https://github.com/Ingenieria-Olvera/Gauss_Riffle) based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making something too.
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking) - Inspired by Iron Man and Rick from Rick and Morty, who can deconstruct random technologies and rebuild them into something incredible. I'm on a journy to learn hardware hacking. Follow my journey here.
 - [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens) In both c# and python for your coding language troubles.
