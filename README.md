@@ -72,8 +72,7 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 #
 
 ### 🔮 Future
-I want to pursue a career in mechatronics engineering, hopefully working for the likes of NASA, Tesla Robotics, or Boston Dynamics. 
-And if all goes wrong, I'll start a youtube channel or something. **Go more indepth with giving a brief statement on how you plan to achive these goals or specific steps you're taking toward them. Showing you are all bite no bark.**
+I want to pursue a career in mechatronics engineering, hopefully working for the likes of NASA, Tesla Robotics, or Boston Dynamics. I am driven by eco friendly engineering, I aim to bring nature and robotics to work simultaneously, along with discovering new possibilites when it comes to exploring/learning about space. I plan on achinving this dream by going into Electrical Engineering in college, and building series connections with companys that share my goal. I aim to work on projects that do just that, eco friendly engineering like a simple air turbine generator, waste repurposing Robots--very WalE, the sky's the limit. And if all goes wrong, I'll start a youtube channel or something.
 
 #
 
