@@ -84,9 +84,12 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 #
 
 ### 🏆 Awards/Certifications
-- **Fabrication Laboratory Award** Earned from my progress in creating a personal assistant through the school year, awarding my innovation, design, and programming prowess.
+- **Fabrication Laboratory Award**
+  - Earned from my progress in creating a personal assistant through the school year, awarding my innovation, design, and programming prowess.
 **Give a little more detail on the significance of this reward and what you have learned from it.**
-- **MITx 6.002.1x** I am currently taking on EdX MITx 6.002.1x, Circuits and Electronics 1: Basic Circuit Analysis, and I am getting my certificate here. This has truly challanged me in the relm of electronics, I started with no real knowldge on the topic and left with a good grasph on Electronics. **I can 100% go more in depth here about how It made me feel and just what I have learend similarly to the fablab award.**
+
+- **MITx 6.002.1x**
+  - I am currently taking on EdX MITx 6.002.1x, Circuits and Electronics 1: Basic Circuit Analysis, and I am getting my certificate here. This has truly challanged me in the relm of electronics, I started with no real knowldge on the topic and left with a good grasph on Electronics. **I can 100% go more in depth here about how It made me feel and just what I have learend similarly to the fablab award.**
 
 #
 
