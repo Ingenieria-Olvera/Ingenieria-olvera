@@ -48,7 +48,8 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 #
 
 ### 🗄️ Finished Projects
-- [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and display jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
+- [Quipy](https://github.com/Qco-t/Quipy):
+  - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and display jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
 
 
 - [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens):
