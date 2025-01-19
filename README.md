@@ -47,26 +47,33 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 
 #
 
-### 📂 Current/Recent Projects
+### 🗄️ Finished Projects
 - [Quipy](https://github.com/Qco-t/Quipy) - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and display jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
-  
-- [Gauss Rifle](https://github.com/Ingenieria-Olvera/Gauss_Riffle):  
-  - based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making a coil gun or Gauss Rifle too. I am currently working on this project as of 10/22/24 onwards. And will post documentation of my progress and achievements along the way.
-  
+
+- [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens):
+  - One of the first projects I ever did on my own was creating a random password generator that would have at 2 random special characters, 2 numbers, 2 lowercase letters, and 2 uppercase letters. All are arranged in different places to truly make the password random. I coded this in both C# and Python.
+
+- [Ionic Wind Project](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen):
+  - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I made a working Ionic Wind generator. I faced a lot of setbacks and design challenges I didn't think I would run into, yet with perseverance, I was able to make a functioning prototype. I am continuing this project to make the wind it produces even stronger, to hopefully figure out how to apply it to aircraft like drones.
+
+#
+
+### 🗂️ Current Projects    
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking):
   - As mentioned previously, I have always been inspired by Iron Man and the cartoon scientist Rick from Rick and Morty. These characters are able to deconstruct random pieces of technology that seem to be nonfunctional and rebuild them into masterpieces. This sort of mastery over technology is something I aim to achieve, which is why I am documenting my hardware hacking projects in hopes of one day reaching their fictional level.
   
-- [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens):
-  - One of the first projects I ever did on my own was creating a random password generator that would have at 2 random special characters, 2 numbers, 2 lowercase letters, and 2 uppercase letters. All are arranged in different places to truly make the password random. I coded this in both C# and Python.
-  
-- [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run):
-  - I love video games, especially games that make you feel free or fluid. I was inspired by games like Titan Fall, Apex Legends, and Lucio from Overwatch. To build a prototype of the game I always wished was made. While this is still in development, I have made enough progress as to where I am happy to share it with others here.
-  
-- [Ionic Wind Project](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen):
-  - Based off of [this](https://www.youtube.com/watch?v=mnCmvxt2jn8&t=484s) desgin made by [integza](https://www.youtube.com/@integza). I made a working Ionic Wind generator. I faced a lot of setbacks and design challenges I didn't think I would run into, yet with perseverance, I was able to make a functioning prototype. I am continuing this project to make the wind it produces even stronger, to hopefully figure out how to apply it to aircraft like drones.
-  
 - [Personalized AI](https://github.com/Ingenieria-Olvera/Arch):
   - I was inspired by Iron Man and his personalized assistant Jarvis/Friday who helps Tony Stark in any challenges he faces, I aim to do something similar. I use Googles Generative AI and text-to-speech libarries to make my own Friday. That has helped me in the creation of the Ionic Wind Generator and Gauss Rifle.
+
+#
+
+### 📇 Unfinished Projects
+- [Gauss Rifle](https://github.com/Ingenieria-Olvera/Gauss_Riffle):  
+  - based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making a coil gun or Gauss Rifle too. I am currently working on this project as of 10/22/24 onwards. And will post documentation of my progress and achievements along the way.
+
+- [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run):
+  - I love video games, especially games that make you feel free or fluid. I was inspired by games like Titan Fall, Apex Legends, and Lucio from Overwatch. To build a prototype of the game I always wished was made. While this is still in development, I have made enough progress as to where I am happy to share it with others here.
+
 
 #
 
