@@ -70,6 +70,9 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Modular Wind Turbine]():
   - I was inspired by my finaicnally difficult upbringing to create a compact modular Wind Turbine that I hope to bring to others so that they can have a cost effective green source of energy.
 
+- [AR Glasses - ARCH]():
+  - I was inspired by Iron Mans jarvis and the Spiderman far from home E.D.I.T.H glasses so I wanted to make my own.
+
 
 #
 
