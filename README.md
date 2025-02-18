@@ -84,8 +84,16 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run):
   - I love video games, especially games that make you feel free or fluid. I was inspired by games like Titan Fall, Apex Legends, and Lucio from Overwatch. To build a prototype of the game I always wished was made. While this is still in development, I have made enough progress as to where I am happy to share it with others here.
 
+#
+
+### 🧑‍🎓 Current Learning
 - [Hardware Hacking](https://github.com/Qco-t/Hardware_hacking):
   - As mentioned previously, I have always been inspired by Iron Man and the cartoon scientist Rick from Rick and Morty. These characters are able to deconstruct random pieces of technology that seem to be nonfunctional and rebuild them into masterpieces. This sort of mastery over technology is something I aim to achieve, which is why I am documenting my hardware hacking projects in hopes of one day reaching their fictional level.
+
+- [Arduino C++ Deep Dive]():
+  - Here I am just going to put all my deep dive knowldge on coding for microcontrollers.
+
+
 
 #
 
