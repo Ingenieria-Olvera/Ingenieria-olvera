@@ -104,6 +104,9 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Introduction to Robotics](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/download/)
   - I am currently taking this Open courseware MIT course in order to learn more about robotics.
 
+- [Opencv Bootcamp](https://courses.opencv.org/dashboard)
+  - I am also learning from the Opencv bootcamp
+
 
 #
 
