@@ -93,6 +93,16 @@ I'm a senior in highschool putting out my mechatronics projects to hopefully bui
 - [Arduino C++ Deep Dive]():
   - Here I am just going to put all my deep dive knowldge on coding for microcontrollers.
 
+ - [Introduction to ARM Cortex-M Assembly Programming](https://www.udemy.com/course/arm-cortex-m-assembly-programming/learn/lecture/5606856#content)
+   - I am currently self studying this course over at Udemy to build my embedded systems knowldge
+  
+- [ARM Cortex-M Interfacing with Keyboards and LCD's](https://www.udemy.com/course/arm-cortex-m-interfacing-with-keyboards-and-lcds/learn/lecture/6190568#overview)
+  - I am currently self studying this course over at Udemy to build up my Cortex-M knowldge
+ 
+- [Learn KiCad V6 and STM32 Hardware Design](https://www.udemy.com/course/learn-kicad-v6-and-stm32-hardware-design/learn/lecture/30585336?start=0#overview)
+  - I am curretnly self studying this course over at Udemy to build up my kicad knowladge
+- [Introduction to Robotics](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/download/)
+  - I am currently taking this Open courseware MIT course in order to learn more about robotics.
 
 
 #
