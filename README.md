@@ -1,10 +1,10 @@
 # 🥐 Ingeniera-Olvera
 
 
-**'Professional highschool student'**
+**'Profesional College Freshman'**
 
 
-I'm a senior in highschool putting out my mechatronics projects to hopefully build connections. I am inspired from engineers on youtube such as, [Hacksmith Industries](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ), [Allen Pan](https://www.youtube.com/@allenpan), [Micheal Reeves](https://www.youtube.com/@MichaelReeves) as well as Movies, TV shows, and Comics.
+I'm a freshman in college putting out my mechatronics projects to hopefully build connections. I am inspired from engineers on youtube such as, [Hacksmith Industries](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ), [Allen Pan](https://www.youtube.com/@allenpan), [Micheal Reeves](https://www.youtube.com/@MichaelReeves) as well as Movies, TV shows, and Comics.
 
 ---
 
