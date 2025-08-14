@@ -52,8 +52,8 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
   - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and display jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
 
 
-- [Password Generator](https://github.com/Ingenieria-Olvera/Password_Gens):
-  - One of the first projects I ever did on my own was creating a random password generator that would have at 2 random special characters, 2 numbers, 2 lowercase letters, and 2 uppercase letters. All are arranged in different places to truly make the password random. I coded this in both C# and Python.
+- [Personalized AI](https://github.com/Ingenieria-Olvera/Arch):
+  - I was inspired by Iron Man and his personalized assistant Jarvis/Friday who helps Tony Stark in any challenges he faces, I aim to do something similar. I use Googles Generative AI and text-to-speech libarries to make my own Friday. That has helped me in the creation of the Ionic Wind Generator and Gauss Rifle.
 
 
 - [Ionic Wind Project](https://github.com/Ingenieria-Olvera/Ionic_Wind_Gen):
@@ -63,12 +63,9 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
 #
 
 ### 🗂️ Current Projects    
-  
-- [Personalized AI](https://github.com/Ingenieria-Olvera/Arch):
-  - I was inspired by Iron Man and his personalized assistant Jarvis/Friday who helps Tony Stark in any challenges he faces, I aim to do something similar. I use Googles Generative AI and text-to-speech libarries to make my own Friday. That has helped me in the creation of the Ionic Wind Generator and Gauss Rifle.
+- [Personalized Note Taking Device - Clear_Note](https://github.com/Ingenieria-Olvera/Clear-Note):
+  - I have found myself in way too many situations looking to design or learn on the go. Only to realize I do not have a pen and paper and I also do not like the process of trying to take notes on my phone. Which is why I am developing something that solves that problem for me known as Clear_Note.  
 
-- [Modular Wind Turbine]():
-  - I was inspired by my finaicnally difficult upbringing to create a compact modular Wind Turbine that I hope to bring to others so that they can have a cost effective green source of energy.
 
 - [AR Glasses - ARCH](https://github.com/Ingenieria-Olvera/Arch):
   - I was inspired by Iron Mans jarvis and the Spiderman far from home E.D.I.T.H glasses so I wanted to make my own.
@@ -77,8 +74,8 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
 #
 
 ### 📇 Unfinished Projects
-- [Gauss Rifle](https://github.com/Ingenieria-Olvera/Gauss_Riffle):  
-  - based off of [Jospeh Takach's](https://www.youtube.com/watch?v=59V3btoiYHA) creation, I plan on making a coil gun or Gauss Rifle too. I am currently working on this project as of 10/22/24 onwards. And will post documentation of my progress and achievements along the way.
+- [Modular Wind Turbine]():
+  - I was inspired by my finaicnally difficult upbringing to create a compact modular Wind Turbine that I hope to bring to others so that they can have a cost effective green source of energy.
 
 
 - [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run):
