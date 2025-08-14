@@ -63,7 +63,7 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
 #
 
 ### 🗂️ Current Projects    
-- [Personalized Note Taking Device - Clear_Note](https://github.com/Ingenieria-Olvera/Clear-Note):
+- [Personalized Note Taking Device - Clear_Note](https://github.com/Ingenieria-Olvera/Clear_Note):
   - I have found myself in way too many situations looking to design or learn on the go. Only to realize I do not have a pen and paper and I also do not like the process of trying to take notes on my phone. Which is why I am developing something that solves that problem for me known as Clear_Note.  
 
 
