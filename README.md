@@ -52,7 +52,7 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
   - A personal voice assistant that uses voice commands to control Spotify, display the weather, turn on LED lights, and display jokes on a TFT screen. This project taught me how to use Spotify and weather APIs, connect to WiFi, use a voice module, and display images on an LCD screen. This project taught me the challenges of debugging and the rewarding experience of creating functional, real-world technology. **This is the standard, remember colleges will see this, hopefully.**
 
 
-- [Personalized AI](https://github.com/Ingenieria-Olvera/Arch):
+- [Personalized AI](https://github.com/Ingenieria-Olvera/Friday_Personalized_Assistant):
   - I was inspired by Iron Man and his personalized assistant Jarvis/Friday who helps Tony Stark in any challenges he faces, I aim to do something similar. I use Googles Generative AI and text-to-speech libarries to make my own Friday. That has helped me in the creation of the Ionic Wind Generator and Gauss Rifle.
 
 
