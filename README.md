@@ -71,6 +71,9 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
   - I was inspired by Iron Mans jarvis and the Spiderman far from home E.D.I.T.H glasses so I wanted to make my own.
 
 
+- [Magic Mirror]():
+  - I love futuristic looking stuff and my dorm room is honestly a little boring so I think this would be a fun learning experince and also a fun project to tackle.
+
 #
 
 ### 📇 Unfinished Projects
@@ -81,9 +84,6 @@ I'm a freshman in college putting out my mechatronics projects to hopefully buil
 - [Hit and Run](https://github.com/Ingenieria-Olvera/Hit-Run):
   - I love video games, especially games that make you feel free or fluid. I was inspired by games like Titan Fall, Apex Legends, and Lucio from Overwatch. To build a prototype of the game I always wished was made. While this is still in development, I have made enough progress as to where I am happy to share it with others here.
 
-
-- [Magic Mirror]():
-  - I love futuristic looking stuff and my dorm room is honestly a little boring so I think this would be a fun learning experince and also a fun project to tackle.
 
 #
 
